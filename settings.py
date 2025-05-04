@@ -1,0 +1,1 @@
+OPENAI_API_KEY = "sk-proj-AnOlI0-BB23JRIAkoaW-..."
